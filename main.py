@@ -1,3 +1,4 @@
+#Example values provided
 num = 40 #Enter mean
 numl = [55, 51, 12, 20, 50, 25, 54, 20, 51, 47, 37, 58] #Enter list of values
 x = 0
